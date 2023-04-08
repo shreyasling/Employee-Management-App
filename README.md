@@ -10,7 +10,7 @@ Before you can deploy the Employee Management App, you need to make sure that yo
 
 Clone the repository to your local machine.
 ```bash
-git clone https://github.com/Utkar5hM/Employee-Management-App.git
+git clone https://github.com/shreyasling/Employee-Management-App.git
 cd src
 ```
 
