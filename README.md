@@ -67,12 +67,11 @@ sudo docker run -p3000:3000 employee-management-app
 How it looks:
 ![c](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2016-05-12.png)
 
-RUN LOCAL HOST IN YOUR WEB PAGE:
+
+After starting the server, you can access the web application by visiting http://localhost:3000 in your web browser.
 ![D](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2012-31-59.png)
 
 
-```
-## Usage
+``
 
-After starting the server, you can access the web application by visiting http://localhost:3000 in your web browser.
 
