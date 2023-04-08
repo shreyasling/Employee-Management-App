@@ -9,7 +9,8 @@ Before you can deploy the Employee Management App, you need to make sure that yo
 - Mysql or Mariadb
 - yarn
 - nodejs
-Clone the repository to your local machine.
+
+-Clone the repository to your local machine.
 ```bash
 git clone https://github.com/shreyasling/Employee-Management-App.git
 cd src
