@@ -6,7 +6,7 @@ This is a Ruby on Rails based web application for managing employee data.
 Before you can deploy the Employee Management App, you need to make sure that you have the following dependencies installed on your machine:
 
 - Ruby (3.0.5)
-- Mysql or Mariadb
+- Mysql2 or Mariadb
 - yarn
 - nodejs
 
