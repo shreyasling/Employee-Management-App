@@ -31,7 +31,8 @@ bundle exec rails db:migrate
 Start the server using the following command.
 ```bash
 bundle exec rails s -p 3000 -b '0.0.0.0'
-```SCREENSHOTS
+```
+SCREENSHOTS
 ![1](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2012-31-59.png)
 
 ## Usage
