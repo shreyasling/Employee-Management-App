@@ -34,7 +34,8 @@ bundle exec rails s -p 3000 -b '0.0.0.0'
 ```
 SCREENSHOTS
 ![1](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2012-31-59.png)
-
+![2](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2015-29-40.png)
+![3](https://github.com/shreyasling/Employee-Management-App/blob/shrey/Screenshot%20from%202023-04-08%2015-29-09.png)
 ## Usage
 
 After starting the server, you can access the web application by visiting http://localhost:3000 in your web browser.
